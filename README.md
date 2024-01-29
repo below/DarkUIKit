@@ -1,5 +1,9 @@
 #  DarkUIKit
 
+## Update: Fixed
+
+The issue could simply be fixed by setting all assets to "render as template"
+
 ## Prime Objective
 
 The prime objective is to have a UIButton with an image that supports dark mode. 
