@@ -2,7 +2,7 @@
 
 ## Update: Fixed
 
-The issue could simply be fixed by setting all assets to "render as template"
+The issue could simply be fixed by setting all assets to "Render As Template Image"
 
 ## Prime Objective
 

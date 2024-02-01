@@ -8,10 +8,14 @@
 import UIKit
 
 class ViewController: UIViewController {
-
+    @IBOutlet var button: UIButton!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+        guard let color = UIColor(named: "Color") else {
+            fatalError("Could not find color")
+        }
+        button.tintColor = color
     }
 
 
